@@ -210,3 +210,4 @@ __marimo__/
 /.vscode
 /output
 /.roo
+/__init__.py
