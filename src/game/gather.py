@@ -19,6 +19,7 @@ def gather(sound: str) -> bool | None | str:
         return sound_all[sound](sound)
     return None
 
+
 def export(sound: str) -> bool | None | str:
     """
     The exporting of the sound resources
